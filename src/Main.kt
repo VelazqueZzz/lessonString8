@@ -7,8 +7,8 @@ fun main() {
     val from = cells[0]
     val to = cells[1]
     val moveNumber = parts[1]
-    //вывод
-    println("Откуда: $from")
-    println("Куда: $to")
-    println("Номер хода: $moveNumber")
+
+    println(from)
+    println(to)
+    println(moveNumber)
 }
